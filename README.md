@@ -12,6 +12,25 @@ On-Prem Azure DevOps with your own MCP Server directly accessible by AI LLM such
 
 # Azure DevOps MCP Server
 
+Organizing large LLM coding projects can be a challenge, especially when you want to keep your code repository on-premises. The Azure DevOps MCP Server bridges this gap by enabling Claude Code to interact directly with your on-premises Azure DevOps environment. This solution brings the power of Model Context Protocol (MCP) to your work items, Git repositories, and pipelines, making project management seamless and efficient.
+
+## Why Use This?
+
+- **On-Premises Friendly:** Designed for organizations that prefer to keep their code and project data behind their own firewall.
+- **Integrated Workflow:** Connects Claude Code to Azure DevOps for unified work item management, Git integration, and pipeline automation.
+- **Streamlined Collaboration:** Link commits to work items, manage pull requests, and track build status—all from your local setup.
+
+## Key Features
+
+- **Work Item Management:** Create, query, update, and link Epics, Features, User Stories, Tasks, and Bugs.
+- **Git Integration:** Link commits, view history, and manage pull requests directly.
+- **Pipeline Automation:** Trigger builds, monitor status, and retrieve logs with ease.
+
+This solution is perfect for teams seeking robust, secure, and centralized project management for their LLM-driven coding workflows.
+
+
+# Azure DevOps MCP Server
+
 Model Context Protocol server for Azure DevOps, enabling Claude Code to interact with work items, Git repositories, and pipelines.
 
 ## Features
