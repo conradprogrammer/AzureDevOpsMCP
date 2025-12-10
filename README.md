@@ -131,7 +131,7 @@ Model Context Protocol server for Azure DevOps, enabling Claude Code to interact
 | `devops_get_pipeline_status` | Get build status |
 | `devops_get_build_logs` | Get build logs |
 
-See [docs/TOOLS.md](docs/TOOLS.md) for complete tool reference with parameters.
+See [docs/tools.md](docs/tools.md) for complete tool reference with parameters.
 
 ## Example Usage with Claude
 
@@ -223,7 +223,7 @@ AzureDevOpsMCP/
 ├── deployment/                  # CI/CD configuration
 │   └── azure-pipelines.yml
 └── docs/
-    └── TOOLS.md                 # Tool reference
+    └── tools.md                 # Tool reference
 ```
 
 ## Troubleshooting
